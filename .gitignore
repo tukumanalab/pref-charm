@@ -1,0 +1,7 @@
+node_modules
+.next
+out
+public/data/dem/
+public/data/stl/
+public/data/boundary/
+tsconfig.tsbuildinfo
